@@ -35,7 +35,7 @@ nano ~/.openclaw/config.json
 {
   "channels": {
     "dashscope": {
-      "apiKey": "your-api-key-here"
+      "apiKey": "YOUR_API_KEY_HERE"
     }
   }
 }
